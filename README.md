@@ -1,6 +1,6 @@
 # Facial-Understanding
 
-In this Repo, we have shared the C++ implementation for the following models. (This code is inspired and modified from https://www.learnopencv.com/)
+In this Repo, we have shared the C++ implementation for the following models. 
 
 ## Dependencies:
 C++, OpenCV 3.4.1 or higher, Dlib 
